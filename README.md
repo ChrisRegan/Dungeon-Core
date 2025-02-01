@@ -8,8 +8,7 @@ Build your factory, craft your traps, and protect your treasure from the oncomin
 
 <H2> Project Goals </H2>
 
-	- Practice for creating AI that act differently. The adventures are mostly an excuse to play around with different pathfinding
-		algorithms.
-	- Make a game in a genre that I enjoy that happens to be a niche that not many games are made in.
+* Practice for creating AI that act differently. The adventures are mostly an excuse to play around with different pathfinding algorithms.
+* Make a game in a genre that I enjoy that happens to be a niche that not many games are made in.
 	
 	
